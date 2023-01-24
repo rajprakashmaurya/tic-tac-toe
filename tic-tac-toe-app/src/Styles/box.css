@@ -1,0 +1,22 @@
+.main-board {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+
+  background-color: rgb(89, 161, 52);
+  width: 100vw;
+  height: 100vh;
+  font-size: 30px;
+}
+
+.board_box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100px;
+  width: 100px;
+  border: 2px solid black;
+  background-color: rgba(157, 209, 36, 0.632);
+  font-size: 50px;
+  box-shadow: 1px 1px 1rem;
+}
